@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "393924540734",
+    "project_id": "fir-project-c1e8f",
+    "storage_bucket": "fir-project-c1e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393924540734:android:f3d4595c694e0a9748946f",
+        "android_client_info": {
+          "package_name": "com.example.app_bar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393924540734-k84mr1srrrg3b4qltc9th7ockll8bhhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj8RPCbfikgnPiNEKtFoXEN3qE5_MnHeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393924540734-k84mr1srrrg3b4qltc9th7ockll8bhhh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393924540734-mmp5sgm9lmr9be2h0la4373s7ghiirq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appBar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393924540734:android:36734f67b59357ca48946f",
+        "android_client_info": {
+          "package_name": "com.example.sport_friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393924540734-k84mr1srrrg3b4qltc9th7ockll8bhhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj8RPCbfikgnPiNEKtFoXEN3qE5_MnHeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393924540734-k84mr1srrrg3b4qltc9th7ockll8bhhh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393924540734-mmp5sgm9lmr9be2h0la4373s7ghiirq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appBar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
